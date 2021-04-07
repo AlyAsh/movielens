@@ -78,3 +78,6 @@ rm(dl, ratings, movies, test_index, temp, movielens, removed)
 # Save RData objects to the rda folder
 save(edx, file = "rda/edx.rda") # Note that edx exceeds GitHub's file size limit
 save(validation, file = "rda/validation.rda")
+
+
+    
